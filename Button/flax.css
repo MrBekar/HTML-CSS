@@ -1,0 +1,33 @@
+.container{
+    width: 100%;
+    height: 100%;
+    background-image: url(../Image/wallpaperflare.jpg);
+    padding: 20px 20px;
+    justify-content: center
+}
+
+.box{
+    background-color:rgb(77, 86, 86);
+    margin: 10px;
+    padding: 30px 30px;
+    border-radius: 10px;
+    height: 100px;
+    width: 100px;
+    border-bottom-right-radius: 10px black;
+    text-align: center;
+}
+
+.box_r_1{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: rgb(170, 183, 184);
+    margin: 20px;
+}
+.box_r_2{
+    margin: 20px;
+    display: flex;
+    justify-content:space-between;
+    padding: 50px;
+    background-color: rgb(170, 183, 184);
+}

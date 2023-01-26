@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background: url(../Image/wallpaperflare.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    justify-content: center;
+    /* opacity: 0.6; */
+}
+
+.sign_up{
+    background-color: rgba(255, 255, 255, 0.903);
+    padding: 50px;
+    text-align: center;
+    height: 450px;
+    width: 300px;
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-bottom: 5px;
+    padding-right: 10%;
+    border: 0;
+    margin-top: 50px;
+    margin-right: 40px;
+    border-radius: 15px;
+}
+.sign_up a:hover{
+    text-decoration:underline;
+}
+
+.img_1{
+    height: 50px;
+    width: 100px;
+    border-radius: 99px;
+}
+
+h1{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(92, 2, 92);
+    margin-top: 10px;
+}
+
+.input, .input_field_2{
+    background-color: rgba(0, 0, 0, 0.141);
+    margin: 15px;
+    border-radius: 5px;
+    display: flex;
+    padding: 15px;
+}
+
+input{
+    width: 100%;
+    background: transparent;
+    border: 0;
+    outline: 0;
+}
+
+.input i{
+    padding-right: 15px;
+}
+
+p{
+    text-align: left;
+    padding-left: 17px;
+    font-size: 13px;
+}
+
+p a{
+    text-decoration: none;
+}
+
+button{
+    margin-top: 40px;
+    width: 100%;
+}
+
+button{
+    padding: 10px;
+    border-radius: 15px;
+    border: 0;
+    margin-left: 20px;
+    width: 90px;
+    text-align: center;
+    color: white;
+    background-color: rgb(52, 73, 94);
+}
+
+button:hover{
+    background-color:rgb(38, 50, 56);
+    cursor: pointer;
+}
+
+
+.registration{
+    background-color: rgba(255, 255, 255, 0.758);
+    text-align: center;
+    padding: 5px;
+    margin-top: 20px;
+    height: 500px;
+    width: 600px;
+    margin-top: 50px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+
+.registration h1{
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.registration button{
+    margin-top: 25px;
+}
