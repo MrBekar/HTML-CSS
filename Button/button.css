@@ -1,0 +1,107 @@
+.button_First{
+    display: inline-block;
+    margin: 50px;
+    padding: 15px;
+    background-color: rgb(224, 112, 0);
+    border-radius: 30px;
+    box-sizing: border-box;
+    padding-right: 20px ; 
+}
+
+.button_First .button{
+    background-color: white;
+    text-align: center;
+    border-radius: 30px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 10px 30px;
+
+    border-color: transparent;
+}
+
+.material-symbols-outlined {
+    color: black;
+    padding-left: 5px;
+    font-size: 25px;
+    
+
+}
+
+.button_First:hover {
+	background: rgb(66, 66, 66);
+}
+
+.button_Second{
+    display: inline-block;
+    margin: 50px;
+    padding: 15px;
+    background-color: rgb(255, 51, 153);
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding-right: 20px ; 
+}
+
+.button_Second .button{
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: transparent;
+}
+
+.button_Second:hover {
+	background: rgb(153, 255, 255);
+}
+
+
+.button_Third{
+    display: inline-block;
+    margin: 50px;
+    padding: 15px;
+    background-color: rgb(204, 0, 255);
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding-right: 20px ; 
+}
+
+.button_Third .button{
+    background-color: white;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: transparent;
+}
+
+.button_Third:hover {
+	background: rgb(52, 73, 94);
+}
+
+
+.button_Forth{
+    display: inline-block;
+    margin: 50px;
+    padding: 15px;
+    background-color: rgb(178, 223, 219);
+    border-radius: 25px;
+    box-sizing: border-box;
+    padding-right: 20px ;
+
+}
+
+.button_Forth .button{
+    background-color:RGB 46, 64, 83;
+    text-align: center;
+    border-radius: 15px;
+    font-size: 30px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    border-color: transparent;
+}
+
+.button_Forth:hover {
+	background: RGB(212, 230, 241);
+}
