@@ -4,8 +4,9 @@
 }
 
 .container{
-    background: url(../image/back.jpg);
+    background: url(../Image/new_year_2023.svg);
     background-position: center;
+    background-attachment: scroll;
     background-size: cover;
     background-attachment: fixed;
     height: 100%;
@@ -26,7 +27,8 @@
     color: rgb(248, 249, 249);
     /*border: inline-block;*/
     text-align: center;
-    padding-top: 25px;
+    padding: 18px 0;
+    background-color: black;
 }
 
 .months{
@@ -34,7 +36,7 @@
     background-position: center;
     grid-template-columns: repeat(7, 1fr);
     grid-template-rows: repeat(6, 1fr);
-    row-gap: 8px;
+    row-gap: 5px;
     column-gap: 5px;
     padding: 0px 450px 0px 450px;
     
